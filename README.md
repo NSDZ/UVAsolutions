@@ -1,2 +1,2 @@
 # UVAsolutions
-UVA online djige problems solution
+UVA online judge problems solution.
