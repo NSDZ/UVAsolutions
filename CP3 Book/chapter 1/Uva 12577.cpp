@@ -10,9 +10,13 @@ using namespace std;
 
 int main()
 {
+
+   
+   //44
    char str[128];
+   int i = 1;
    while(scanf("%s", str) != '*'){
-   	printf("Hajj-e-");
+   	printf("Case %d: Hajj-e-", i++);
    	if(str[0]=='H') printf("Akbar\n");
    	else printf("Asghar\n");
    }
